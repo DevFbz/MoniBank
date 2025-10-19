@@ -24,7 +24,7 @@ Este projeto reforça habilidades como:
 
 ## 🎨 Interface
 
-> *(adicione aqui um print do site para o README ficar mais visual)*  
+>  https://devfbz.github.io/MoniBank/
 <img src="./img/preview-monibank.png" width="600" alt="Interface do projeto Monibank"/>
 
 ---
